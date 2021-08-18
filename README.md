@@ -16,6 +16,6 @@ A unique and random password!
 
 ## Links:
 
-https://github.com/KarenHarley/03-Homework
+https://github.com/KarenHarley/Password-Generator
 
-https://karenharley.github.io/03-Homework/
+https://karenharley.github.io/Password-Generator/
