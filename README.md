@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
+
 # Password Generator
 
 Generate a unique password with this simple to use application. This app allows you to decide what you would like your password to include (e.g. amount of characters).
