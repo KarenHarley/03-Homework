@@ -6,29 +6,29 @@ Generate a unique password effortlessly with this user-friendly application. The
 
 ## How-to-use:
 
-1. Click "Generate Password" button.
+#### 1. Click "Generate Password" button.
 
 <br/>
 
-2. Enter amount of characters desired.
+#### 2. Enter amount of characters desired.
 
 <br/>
 
 ![Enter amount of characters desired](./pics/numberOfChar.png)
 
-3. Click OK if you would like special characters in password.
+#### 3. Click OK if you would like special characters in password.
 
 <br/>
 
 ![special characters in password](./pics/special.png)
 
-4. Click OK if you would like numeric characters in password.
+#### 4. Click OK if you would like numeric characters in password.
 
 <br/>
 
 ![special characters in password](./pics/numbers.png)
 
-5. Click OK if you would like UPPERCASE characters in password.
+#### 5. Click OK if you would like UPPERCASE characters in password.
 
 <br/>
 
