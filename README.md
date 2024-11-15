@@ -8,8 +8,6 @@ Generate a unique password effortlessly with this user-friendly application. The
 
 #### 1. Click "Generate Password" button.
 
-<br/>
-
 #### 2. Enter amount of characters desired.
 
 <br/>
