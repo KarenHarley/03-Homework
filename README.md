@@ -36,7 +36,7 @@ Generate a unique password effortlessly with this user-friendly application. The
 
 A unique and random password!
 
-# Website Picture
+## Website Picture
 
 ![The Password Generator application displays a red button to "Generate Password".](./pics/web-pic.png)
 
