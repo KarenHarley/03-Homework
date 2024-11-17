@@ -45,3 +45,7 @@ A unique and random password!
 https://github.com/KarenHarley/Password-Generator
 
 https://karenharley.github.io/Password-Generator/
+
+## License
+
+The license used for this project: MIT
