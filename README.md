@@ -49,3 +49,7 @@ https://karenharley.github.io/Password-Generator/
 ## License
 
 The license used for this project: MIT
+
+## Contact Info 
+
+KarenHarley88@gmail.com
