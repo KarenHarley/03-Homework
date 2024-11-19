@@ -3,6 +3,9 @@
 # Password Generator
 
 Generate a unique password effortlessly with this user-friendly application. The app allows you to customize your password by specifying desired criteria, such as the number of characters and other elements for enhanced security.
+## Table of Contents:
+
+- [How to Use](#how-to-use)
 
 ## How-to-use:
 
