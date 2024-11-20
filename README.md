@@ -6,6 +6,7 @@ Generate a unique password effortlessly with this user-friendly application. The
 ## Table of Contents:
 
 - [How to Use](#how-to-use)
+- [Website Picture](#website-picture)
 
 ## How-to-use:
 
