@@ -9,6 +9,8 @@ Generate a unique password effortlessly with this user-friendly application. The
 - [Website Picture](#website-picture)
 - [Links](#links)
 - [License](#license)
+- [Contact Info](#contact-info)
+
 
 ## How-to-use:
 
