@@ -15,7 +15,6 @@ Generate a unique password effortlessly with this user-friendly application. The
 ## How-to-use:
 
 #### 1. Click "Generate Password" button.
-
 #### 2. Enter amount of characters desired.
 
 <br/>
