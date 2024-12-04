@@ -12,7 +12,7 @@ Generate a unique password effortlessly with this user-friendly application. The
 - [Questions](#questions)
 
 
-## How-to-use:
+## How to use:
 
 #### 1. Click "Generate Password" button.
 #### 2. Enter amount of characters desired.
