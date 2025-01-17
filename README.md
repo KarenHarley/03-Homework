@@ -49,9 +49,7 @@ A unique and random password!
 
 ## Links:
 
-https://github.com/KarenHarley/Password-Generator
-
-https://karenharley.github.io/Password-Generator/
+`https://github.com/KarenHarley/Password-Generator`
 
 ## License
 
